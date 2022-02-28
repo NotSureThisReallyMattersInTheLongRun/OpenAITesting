@@ -6,7 +6,7 @@ import json
 
 working_dir = "/Users/cjduggan/projects/python_testing"
 fileName = f"built_model.dat"
-openai.api_key = "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"
+openai.api_key = "{your key}"
 #result = openai.File.create(
 #    file=open("train_set_2.jsonl"), 
 #    purpose="classifications",
