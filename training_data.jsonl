@@ -1,0 +1,7 @@
+{"text": "What is the status of {ASSET_NAME}?","label": "GetStatus", "metadata": {"source":"example.com"}}
+{"text": "How is {ASSET_NAME}?", "label": "GetStatus", "metadata": {"source":"example.com"}}
+{"text": "What depends on {ASSET_NAME}?", "label": "GetDependencies", "metadata": {"source":"example.com"}}
+{"text": "What's impacted if {ASSET_NAME} goes down?", "label": "GetDependencies", "metadata": {"source":"example.com"}}
+{"text": "How long has {ASSET_NAME} been down?", "label": "GetAlertHistory", "metadata": {"source":"example.com"}}
+{"text": "When did {ASSET_NAME} go down?", "label": "GetAlertHistory", "metadata": {"source":"example.com"}}
+{"text": "How is {ASSET_NAME} doing?", "label": "GetStatus", "metadata": {"source":"example.com"}}

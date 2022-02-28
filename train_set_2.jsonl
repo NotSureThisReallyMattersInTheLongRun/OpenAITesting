@@ -1,0 +1,187 @@
+{"text": "Get status of jmsac.", "label": "getstatus", "metadata": {"source": "uprr.com"}}
+{"text": "Get status of jmsba.", "label": "getstatus", "metadata": {"source": "uprr.com"}}
+{"text": "Get status of jmsa.", "label": "getstatus", "metadata": {"source": "uprr.com"}}
+{"text": "Get status of jmsc.", "label": "getstatus", "metadata": {"source": "uprr.com"}}
+{"text": "Get status of omhq169a.", "label": "getstatus", "metadata": {"source": "uprr.com"}}
+{"text": "Get status of omhq169b.", "label": "getstatus", "metadata": {"source": "uprr.com"}}
+{"text": "Get status of omsdp1233.", "label": "getstatus", "metadata": {"source": "uprr.com"}}
+{"text": "Get status of vx1232.", "label": "getstatus", "metadata": {"source": "uprr.com"}}
+{"text": "Get status of vx2342.", "label": "getstatus", "metadata": {"source": "uprr.com"}}
+{"text": "Get status of omhqv2134.", "label": "getstatus", "metadata": {"source": "uprr.com"}}
+{"text": "Get status of omhqp2342.", "label": "getstatus", "metadata": {"source": "uprr.com"}}
+{"text": "Get status of prod141.", "label": "getstatus", "metadata": {"source": "uprr.com"}}
+{"text": "Get status of po02.", "label": "getstatus", "metadata": {"source": "uprr.com"}}
+{"text": "Get status of xtst043.", "label": "getstatus", "metadata": {"source": "uprr.com"}}
+{"text": "Get status of dev123.", "label": "getstatus", "metadata": {"source": "uprr.com"}}
+{"text": "Get status of test324.", "label": "getstatus", "metadata": {"source": "uprr.com"}}
+{"text": "Get status of po03.", "label": "getstatus", "metadata": {"source": "uprr.com"}}
+{"text": "What is the status of jmsac?", "label": "getstatus", "metadata": {"source": "uprr.com"}}
+{"text": "What is the status of jmsba?", "label": "getstatus", "metadata": {"source": "uprr.com"}}
+{"text": "What is the status of jmsa?", "label": "getstatus", "metadata": {"source": "uprr.com"}}
+{"text": "What is the status of jmsc?", "label": "getstatus", "metadata": {"source": "uprr.com"}}
+{"text": "What is the status of omhq169a?", "label": "getstatus", "metadata": {"source": "uprr.com"}}
+{"text": "What is the status of omhq169b?", "label": "getstatus", "metadata": {"source": "uprr.com"}}
+{"text": "What is the status of omsdp1233?", "label": "getstatus", "metadata": {"source": "uprr.com"}}
+{"text": "What is the status of vx1232?", "label": "getstatus", "metadata": {"source": "uprr.com"}}
+{"text": "What is the status of vx2342?", "label": "getstatus", "metadata": {"source": "uprr.com"}}
+{"text": "What is the status of omhqv2134?", "label": "getstatus", "metadata": {"source": "uprr.com"}}
+{"text": "What is the status of omhqp2342?", "label": "getstatus", "metadata": {"source": "uprr.com"}}
+{"text": "What is the status of prod141?", "label": "getstatus", "metadata": {"source": "uprr.com"}}
+{"text": "What is the status of po02?", "label": "getstatus", "metadata": {"source": "uprr.com"}}
+{"text": "What is the status of xtst043?", "label": "getstatus", "metadata": {"source": "uprr.com"}}
+{"text": "What is the status of dev123?", "label": "getstatus", "metadata": {"source": "uprr.com"}}
+{"text": "What is the status of test324?", "label": "getstatus", "metadata": {"source": "uprr.com"}}
+{"text": "What is the status of po03?", "label": "getstatus", "metadata": {"source": "uprr.com"}}
+{"text": "How is jmsac?", "label": "getstatus", "metadata": {"source": "uprr.com"}}
+{"text": "How is jmsba?", "label": "getstatus", "metadata": {"source": "uprr.com"}}
+{"text": "How is jmsa?", "label": "getstatus", "metadata": {"source": "uprr.com"}}
+{"text": "How is jmsc?", "label": "getstatus", "metadata": {"source": "uprr.com"}}
+{"text": "How is omhq169a?", "label": "getstatus", "metadata": {"source": "uprr.com"}}
+{"text": "How is omhq169b?", "label": "getstatus", "metadata": {"source": "uprr.com"}}
+{"text": "How is omsdp1233?", "label": "getstatus", "metadata": {"source": "uprr.com"}}
+{"text": "How is vx1232?", "label": "getstatus", "metadata": {"source": "uprr.com"}}
+{"text": "How is vx2342?", "label": "getstatus", "metadata": {"source": "uprr.com"}}
+{"text": "How is omhqv2134?", "label": "getstatus", "metadata": {"source": "uprr.com"}}
+{"text": "How is omhqp2342?", "label": "getstatus", "metadata": {"source": "uprr.com"}}
+{"text": "How is prod141?", "label": "getstatus", "metadata": {"source": "uprr.com"}}
+{"text": "How is po02?", "label": "getstatus", "metadata": {"source": "uprr.com"}}
+{"text": "How is xtst043?", "label": "getstatus", "metadata": {"source": "uprr.com"}}
+{"text": "How is dev123?", "label": "getstatus", "metadata": {"source": "uprr.com"}}
+{"text": "How is test324?", "label": "getstatus", "metadata": {"source": "uprr.com"}}
+{"text": "How is po03?", "label": "getstatus", "metadata": {"source": "uprr.com"}}
+{"text": "Tell me how jmsac is doing.", "label": "getstatus", "metadata": {"source": "uprr.com"}}
+{"text": "Tell me how jmsba is doing.", "label": "getstatus", "metadata": {"source": "uprr.com"}}
+{"text": "Tell me how jmsa is doing.", "label": "getstatus", "metadata": {"source": "uprr.com"}}
+{"text": "Tell me how jmsc is doing.", "label": "getstatus", "metadata": {"source": "uprr.com"}}
+{"text": "Tell me how omhq169a is doing.", "label": "getstatus", "metadata": {"source": "uprr.com"}}
+{"text": "Tell me how omhq169b is doing.", "label": "getstatus", "metadata": {"source": "uprr.com"}}
+{"text": "Tell me how omsdp1233 is doing.", "label": "getstatus", "metadata": {"source": "uprr.com"}}
+{"text": "Tell me how vx1232 is doing.", "label": "getstatus", "metadata": {"source": "uprr.com"}}
+{"text": "Tell me how vx2342 is doing.", "label": "getstatus", "metadata": {"source": "uprr.com"}}
+{"text": "Tell me how omhqv2134 is doing.", "label": "getstatus", "metadata": {"source": "uprr.com"}}
+{"text": "Tell me how omhqp2342 is doing.", "label": "getstatus", "metadata": {"source": "uprr.com"}}
+{"text": "Tell me how prod141 is doing.", "label": "getstatus", "metadata": {"source": "uprr.com"}}
+{"text": "Tell me how po02 is doing.", "label": "getstatus", "metadata": {"source": "uprr.com"}}
+{"text": "Tell me how xtst043 is doing.", "label": "getstatus", "metadata": {"source": "uprr.com"}}
+{"text": "Tell me how dev123 is doing.", "label": "getstatus", "metadata": {"source": "uprr.com"}}
+{"text": "Tell me how test324 is doing.", "label": "getstatus", "metadata": {"source": "uprr.com"}}
+{"text": "Tell me how po03 is doing.", "label": "getstatus", "metadata": {"source": "uprr.com"}}
+{"text": "What depends on jmsac?", "label": "getdependencies", "metadata": {"source": "uprr.com"}}
+{"text": "What depends on jmsba?", "label": "getdependencies", "metadata": {"source": "uprr.com"}}
+{"text": "What depends on jmsa?", "label": "getdependencies", "metadata": {"source": "uprr.com"}}
+{"text": "What depends on jmsc?", "label": "getdependencies", "metadata": {"source": "uprr.com"}}
+{"text": "What depends on omhq169a?", "label": "getdependencies", "metadata": {"source": "uprr.com"}}
+{"text": "What depends on omhq169b?", "label": "getdependencies", "metadata": {"source": "uprr.com"}}
+{"text": "What depends on omsdp1233?", "label": "getdependencies", "metadata": {"source": "uprr.com"}}
+{"text": "What depends on vx1232?", "label": "getdependencies", "metadata": {"source": "uprr.com"}}
+{"text": "What depends on vx2342?", "label": "getdependencies", "metadata": {"source": "uprr.com"}}
+{"text": "What depends on omhqv2134?", "label": "getdependencies", "metadata": {"source": "uprr.com"}}
+{"text": "What depends on omhqp2342?", "label": "getdependencies", "metadata": {"source": "uprr.com"}}
+{"text": "What depends on prod141?", "label": "getdependencies", "metadata": {"source": "uprr.com"}}
+{"text": "What depends on po02?", "label": "getdependencies", "metadata": {"source": "uprr.com"}}
+{"text": "What depends on xtst043?", "label": "getdependencies", "metadata": {"source": "uprr.com"}}
+{"text": "What depends on dev123?", "label": "getdependencies", "metadata": {"source": "uprr.com"}}
+{"text": "What depends on test324?", "label": "getdependencies", "metadata": {"source": "uprr.com"}}
+{"text": "What depends on po03?", "label": "getdependencies", "metadata": {"source": "uprr.com"}}
+{"text": "What apps are related to jmsac?", "label": "getdependencies", "metadata": {"source": "uprr.com"}}
+{"text": "What apps are related to jmsba?", "label": "getdependencies", "metadata": {"source": "uprr.com"}}
+{"text": "What apps are related to jmsa?", "label": "getdependencies", "metadata": {"source": "uprr.com"}}
+{"text": "What apps are related to jmsc?", "label": "getdependencies", "metadata": {"source": "uprr.com"}}
+{"text": "What apps are related to omhq169a?", "label": "getdependencies", "metadata": {"source": "uprr.com"}}
+{"text": "What apps are related to omhq169b?", "label": "getdependencies", "metadata": {"source": "uprr.com"}}
+{"text": "What apps are related to omsdp1233?", "label": "getdependencies", "metadata": {"source": "uprr.com"}}
+{"text": "What apps are related to vx1232?", "label": "getdependencies", "metadata": {"source": "uprr.com"}}
+{"text": "What apps are related to vx2342?", "label": "getdependencies", "metadata": {"source": "uprr.com"}}
+{"text": "What apps are related to omhqv2134?", "label": "getdependencies", "metadata": {"source": "uprr.com"}}
+{"text": "What apps are related to omhqp2342?", "label": "getdependencies", "metadata": {"source": "uprr.com"}}
+{"text": "What apps are related to prod141?", "label": "getdependencies", "metadata": {"source": "uprr.com"}}
+{"text": "What apps are related to po02?", "label": "getdependencies", "metadata": {"source": "uprr.com"}}
+{"text": "What apps are related to xtst043?", "label": "getdependencies", "metadata": {"source": "uprr.com"}}
+{"text": "What apps are related to dev123?", "label": "getdependencies", "metadata": {"source": "uprr.com"}}
+{"text": "What apps are related to test324?", "label": "getdependencies", "metadata": {"source": "uprr.com"}}
+{"text": "What apps are related to po03?", "label": "getdependencies", "metadata": {"source": "uprr.com"}}
+{"text": "If jmsac goes down, what is impacted?", "label": "getdependencies", "metadata": {"source": "uprr.com"}}
+{"text": "If jmsba goes down, what is impacted?", "label": "getdependencies", "metadata": {"source": "uprr.com"}}
+{"text": "If jmsa goes down, what is impacted?", "label": "getdependencies", "metadata": {"source": "uprr.com"}}
+{"text": "If jmsc goes down, what is impacted?", "label": "getdependencies", "metadata": {"source": "uprr.com"}}
+{"text": "If omhq169a goes down, what is impacted?", "label": "getdependencies", "metadata": {"source": "uprr.com"}}
+{"text": "If omhq169b goes down, what is impacted?", "label": "getdependencies", "metadata": {"source": "uprr.com"}}
+{"text": "If omsdp1233 goes down, what is impacted?", "label": "getdependencies", "metadata": {"source": "uprr.com"}}
+{"text": "If vx1232 goes down, what is impacted?", "label": "getdependencies", "metadata": {"source": "uprr.com"}}
+{"text": "If vx2342 goes down, what is impacted?", "label": "getdependencies", "metadata": {"source": "uprr.com"}}
+{"text": "If omhqv2134 goes down, what is impacted?", "label": "getdependencies", "metadata": {"source": "uprr.com"}}
+{"text": "If omhqp2342 goes down, what is impacted?", "label": "getdependencies", "metadata": {"source": "uprr.com"}}
+{"text": "If prod141 goes down, what is impacted?", "label": "getdependencies", "metadata": {"source": "uprr.com"}}
+{"text": "If po02 goes down, what is impacted?", "label": "getdependencies", "metadata": {"source": "uprr.com"}}
+{"text": "If xtst043 goes down, what is impacted?", "label": "getdependencies", "metadata": {"source": "uprr.com"}}
+{"text": "If dev123 goes down, what is impacted?", "label": "getdependencies", "metadata": {"source": "uprr.com"}}
+{"text": "If test324 goes down, what is impacted?", "label": "getdependencies", "metadata": {"source": "uprr.com"}}
+{"text": "If po03 goes down, what is impacted?", "label": "getdependencies", "metadata": {"source": "uprr.com"}}
+{"text": "What is impacted by jmsac?", "label": "getdependencies", "metadata": {"source": "uprr.com"}}
+{"text": "What is impacted by jmsba?", "label": "getdependencies", "metadata": {"source": "uprr.com"}}
+{"text": "What is impacted by jmsa?", "label": "getdependencies", "metadata": {"source": "uprr.com"}}
+{"text": "What is impacted by jmsc?", "label": "getdependencies", "metadata": {"source": "uprr.com"}}
+{"text": "What is impacted by omhq169a?", "label": "getdependencies", "metadata": {"source": "uprr.com"}}
+{"text": "What is impacted by omhq169b?", "label": "getdependencies", "metadata": {"source": "uprr.com"}}
+{"text": "What is impacted by omsdp1233?", "label": "getdependencies", "metadata": {"source": "uprr.com"}}
+{"text": "What is impacted by vx1232?", "label": "getdependencies", "metadata": {"source": "uprr.com"}}
+{"text": "What is impacted by vx2342?", "label": "getdependencies", "metadata": {"source": "uprr.com"}}
+{"text": "What is impacted by omhqv2134?", "label": "getdependencies", "metadata": {"source": "uprr.com"}}
+{"text": "What is impacted by omhqp2342?", "label": "getdependencies", "metadata": {"source": "uprr.com"}}
+{"text": "What is impacted by prod141?", "label": "getdependencies", "metadata": {"source": "uprr.com"}}
+{"text": "What is impacted by po02?", "label": "getdependencies", "metadata": {"source": "uprr.com"}}
+{"text": "What is impacted by xtst043?", "label": "getdependencies", "metadata": {"source": "uprr.com"}}
+{"text": "What is impacted by dev123?", "label": "getdependencies", "metadata": {"source": "uprr.com"}}
+{"text": "What is impacted by test324?", "label": "getdependencies", "metadata": {"source": "uprr.com"}}
+{"text": "What is impacted by po03?", "label": "getdependencies", "metadata": {"source": "uprr.com"}}
+{"text": "When did jmsac go down?", "label": "gethistory", "metadata": {"source": "uprr.com"}}
+{"text": "When did jmsba go down?", "label": "gethistory", "metadata": {"source": "uprr.com"}}
+{"text": "When did jmsa go down?", "label": "gethistory", "metadata": {"source": "uprr.com"}}
+{"text": "When did jmsc go down?", "label": "gethistory", "metadata": {"source": "uprr.com"}}
+{"text": "When did omhq169a go down?", "label": "gethistory", "metadata": {"source": "uprr.com"}}
+{"text": "When did omhq169b go down?", "label": "gethistory", "metadata": {"source": "uprr.com"}}
+{"text": "When did omsdp1233 go down?", "label": "gethistory", "metadata": {"source": "uprr.com"}}
+{"text": "When did vx1232 go down?", "label": "gethistory", "metadata": {"source": "uprr.com"}}
+{"text": "When did vx2342 go down?", "label": "gethistory", "metadata": {"source": "uprr.com"}}
+{"text": "When did omhqv2134 go down?", "label": "gethistory", "metadata": {"source": "uprr.com"}}
+{"text": "When did omhqp2342 go down?", "label": "gethistory", "metadata": {"source": "uprr.com"}}
+{"text": "When did prod141 go down?", "label": "gethistory", "metadata": {"source": "uprr.com"}}
+{"text": "When did po02 go down?", "label": "gethistory", "metadata": {"source": "uprr.com"}}
+{"text": "When did xtst043 go down?", "label": "gethistory", "metadata": {"source": "uprr.com"}}
+{"text": "When did dev123 go down?", "label": "gethistory", "metadata": {"source": "uprr.com"}}
+{"text": "When did test324 go down?", "label": "gethistory", "metadata": {"source": "uprr.com"}}
+{"text": "When did po03 go down?", "label": "gethistory", "metadata": {"source": "uprr.com"}}
+{"text": "When was the last alert for jmsac?", "label": "gethistory", "metadata": {"source": "uprr.com"}}
+{"text": "When was the last alert for jmsba?", "label": "gethistory", "metadata": {"source": "uprr.com"}}
+{"text": "When was the last alert for jmsa?", "label": "gethistory", "metadata": {"source": "uprr.com"}}
+{"text": "When was the last alert for jmsc?", "label": "gethistory", "metadata": {"source": "uprr.com"}}
+{"text": "When was the last alert for omhq169a?", "label": "gethistory", "metadata": {"source": "uprr.com"}}
+{"text": "When was the last alert for omhq169b?", "label": "gethistory", "metadata": {"source": "uprr.com"}}
+{"text": "When was the last alert for omsdp1233?", "label": "gethistory", "metadata": {"source": "uprr.com"}}
+{"text": "When was the last alert for vx1232?", "label": "gethistory", "metadata": {"source": "uprr.com"}}
+{"text": "When was the last alert for vx2342?", "label": "gethistory", "metadata": {"source": "uprr.com"}}
+{"text": "When was the last alert for omhqv2134?", "label": "gethistory", "metadata": {"source": "uprr.com"}}
+{"text": "When was the last alert for omhqp2342?", "label": "gethistory", "metadata": {"source": "uprr.com"}}
+{"text": "When was the last alert for prod141?", "label": "gethistory", "metadata": {"source": "uprr.com"}}
+{"text": "When was the last alert for po02?", "label": "gethistory", "metadata": {"source": "uprr.com"}}
+{"text": "When was the last alert for xtst043?", "label": "gethistory", "metadata": {"source": "uprr.com"}}
+{"text": "When was the last alert for dev123?", "label": "gethistory", "metadata": {"source": "uprr.com"}}
+{"text": "When was the last alert for test324?", "label": "gethistory", "metadata": {"source": "uprr.com"}}
+{"text": "When was the last alert for po03?", "label": "gethistory", "metadata": {"source": "uprr.com"}}
+{"text": "How long has jmsac been down?", "label": "gethistory", "metadata": {"source": "uprr.com"}}
+{"text": "How long has jmsba been down?", "label": "gethistory", "metadata": {"source": "uprr.com"}}
+{"text": "How long has jmsa been down?", "label": "gethistory", "metadata": {"source": "uprr.com"}}
+{"text": "How long has jmsc been down?", "label": "gethistory", "metadata": {"source": "uprr.com"}}
+{"text": "How long has omhq169a been down?", "label": "gethistory", "metadata": {"source": "uprr.com"}}
+{"text": "How long has omhq169b been down?", "label": "gethistory", "metadata": {"source": "uprr.com"}}
+{"text": "How long has omsdp1233 been down?", "label": "gethistory", "metadata": {"source": "uprr.com"}}
+{"text": "How long has vx1232 been down?", "label": "gethistory", "metadata": {"source": "uprr.com"}}
+{"text": "How long has vx2342 been down?", "label": "gethistory", "metadata": {"source": "uprr.com"}}
+{"text": "How long has omhqv2134 been down?", "label": "gethistory", "metadata": {"source": "uprr.com"}}
+{"text": "How long has omhqp2342 been down?", "label": "gethistory", "metadata": {"source": "uprr.com"}}
+{"text": "How long has prod141 been down?", "label": "gethistory", "metadata": {"source": "uprr.com"}}
+{"text": "How long has po02 been down?", "label": "gethistory", "metadata": {"source": "uprr.com"}}
+{"text": "How long has xtst043 been down?", "label": "gethistory", "metadata": {"source": "uprr.com"}}
+{"text": "How long has dev123 been down?", "label": "gethistory", "metadata": {"source": "uprr.com"}}
+{"text": "How long has test324 been down?", "label": "gethistory", "metadata": {"source": "uprr.com"}}
+{"text": "How long has po03 been down?", "label": "gethistory", "metadata": {"source": "uprr.com"}}
